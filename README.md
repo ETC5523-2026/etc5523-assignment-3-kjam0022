@@ -3,7 +3,7 @@
 A personal website built with Quarto for ETC5523 Communicating with Data (Monash University). It has a homepage listing, an About page, and a blog post adapted from my Assignment 2 report on healthcare-associated infections in Germany.
 
 * The author of this website is **Krrish Jambhulkar**.
-* The URL for this website is [add your GitHub Pages link here once it is published].
+* The URL for this website is [https://etc5523-2026.github.io/etc5523-assignment-3-kjam0022/](https://etc5523-2026.github.io/etc5523-assignment-3-kjam0022/).
 
 **Audience statement:** This blog post is written for adults with no medical or statistics training who read general-interest health or news blogs and want to know how Germany's hospital infection burden compares with the rest of Europe.
 
