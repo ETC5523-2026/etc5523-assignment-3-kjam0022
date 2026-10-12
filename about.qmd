@@ -1,13 +1,28 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Krrish Jambhulkar"
+image: profile.jpeg
+image-alt: "Photo of Krrish Jambhulkar"
 about:
   template: jolla
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/kjam0022
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/krrishjambhulkar
+    - icon: twitter
+      text: X
+      href: https://x.com/krrish_11_
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/krrish_11_
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Hi, I'm Krrish, a Master of Business Analytics student at Monash University in Australia. I'm interested in turning data into clear, useful insights for people who aren't specialists, and I'm aiming for an analytics role in finance in Australia or India.
+
+I completed a Bachelor of Science in Information Technology at Vidyalankar in Mumbai before moving to Monash. My main tools are R and Quarto, which I used to build this site, and I've also done a Python elective. I'm now learning Tableau and Power BI to widen my toolkit.
+
+Alongside my studies I work at KFC, which has taught me teamwork, working under pressure, and explaining things clearly to people.
+
+This site collects my public health data work for ETC5523 Communicating with Data, including a blog post on healthcare-associated infections.
