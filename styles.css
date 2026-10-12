@@ -1,4 +1,85 @@
-/* css styles */
-.navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+/* Navbar */
+#quarto-header .navbar,
+.navbar.bg-dark {
+  background-color: #0F4C5C !important;
+}
+
+.navbar-brand, .navbar-nav .nav-link, .navbar-nav .nav-link i {
+  color: #FFFFFF !important;
+}
+
+/* Title banner — keep text white for contrast against the teal background */
+.quarto-title-banner {
+  background-color: #0F4C5C !important;
+}
+
+.quarto-title-banner .title {
+  color: #FFFFFF !important;
+}
+
+/* Page headings (not the banner) */
+h2, h3 {
+  color: #0F4C5C !important;
+}
+
+/* Links */
+a {
+  color: #E36414;
+}
+a:hover {
+  color: #0F4C5C;
+}
+
+body {
+  background-color: #FAFAFA;
+}
+
+/* Listing titles on the homepage */
+.quarto-post .listing-title,
+.quarto-post .listing-title a,
+.listing-title {
+  color: #0F4C5C !important;
+}
+
+.quarto-post .listing-title a:hover {
+  color: #E36414 !important;
+}
+
+/* Category sidebar (optional) */
+.quarto-listing-category .category,
+.quarto-listing-category a {
+  color: #0F4C5C;
+}
+.quarto-title-banner .subtitle {
+  color: #FFFFFF !important;
+  opacity: 1;
+}
+
+.quarto-title-banner .description,
+.quarto-title-banner .subtitle {
+  color: #FFFFFF !important;
+  opacity: 1;
+}
+
+.quarto-title-banner .quarto-category {
+  color: #FFFFFF !important;
+  border-color: #FFFFFF !important;
+  opacity: 1;
+}
+/* Category tags in the post banner */
+.quarto-title-banner .quarto-categories {
+  opacity: 1 !important;
+}
+
+.quarto-title-banner .quarto-categories .quarto-category,
+.quarto-title-banner .quarto-category {
+  color: #FFFFFF !important;
+  border: 1px solid #FFFFFF !important;
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  opacity: 1 !important;
+}
+#TOC .nav-link.active,
+#TOC .nav-link:hover {
+  color: #E36414 !important;
+  border-left-color: #E36414 !important;
 }

@@ -1,14 +1,13 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "Krrish Jambhulkar"
+subtitle: "Public health data, explained for ETC5523 Communicating with Data"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
-
-
