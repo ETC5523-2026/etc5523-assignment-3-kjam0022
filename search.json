@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Krrish Jambhulkar",
+    "section": "",
+    "text": "Hi, I’m Krrish, a Master of Business Analytics student at Monash University in Australia. I’m interested in turning data into clear, useful insights for people who aren’t specialists, and I’m aiming for an analytics role in finance in Australia or India.\nI completed a Bachelor of Science in Information Technology at Vidyalankar in Mumbai before moving to Monash. My main tools are R and Quarto, which I used to build this site, and I’ve also done a Python elective. I’m now learning Tableau and Power BI to widen my toolkit.\nAlongside my studies I work at KFC, which has taught me teamwork, working under pressure, and explaining things clearly to people.\nThis site collects my public health data work for ETC5523 Communicating with Data, including a blog post on healthcare-associated infections."
+  },
+  {
+    "objectID": "posts/hai-germany/index.html",
+    "href": "posts/hai-germany/index.html",
+    "title": "Catching an infection in hospital: how does Germany compare with the rest of Europe?",
+    "section": "",
+    "text": "This post is written for readers with no medical or statistics background. Every technical term is explained as it appears."
+  },
+  {
+    "objectID": "posts/hai-germany/index.html#the-problem-getting-sicker-in-the-place-meant-to-make-you-better",
+    "href": "posts/hai-germany/index.html#the-problem-getting-sicker-in-the-place-meant-to-make-you-better",
+    "title": "Catching an infection in hospital: how does Germany compare with the rest of Europe?",
+    "section": "The problem: getting sicker in the place meant to make you better",
+    "text": "The problem: getting sicker in the place meant to make you better\nMost of us expect a hospital stay to leave us healthier. But some patients pick up a new infection because they are in hospital. Doctors call these healthcare-associated infections: infections that develop during treatment rather than being there when the patient arrives.\nThey are expensive and long-standing, yet they get far less attention than diseases such as influenza or measles, which must be reported to health authorities. Part of the reason is that national surveys of hospital infections could not easily be turned into a “burden” figure (a measure of how much healthy life a disease takes away) like the ones used for those diseases, so countries were hard to compare. In 2019, Zacher and colleagues closed that gap (Zacher et al. 2019).\nThis post uses their results to ask two questions:\n\nDoes Germany have a heavier burden of hospital infections than the EU/EEA average? (The EU/EEA is the European Union plus Iceland, Liechtenstein and Norway.)\nIs the burden spread evenly across infection types, or do some stand out?"
+  },
+  {
+    "objectID": "posts/hai-germany/index.html#what-the-evidence-shows",
+    "href": "posts/hai-germany/index.html#what-the-evidence-shows",
+    "title": "Catching an infection in hospital: how does Germany compare with the rest of Europe?",
+    "section": "What the evidence shows",
+    "text": "What the evidence shows\n\nWhere the numbers come from\nThe evidence is a snapshot survey of hospitals across Europe in 2011–12, coordinated by the European Centre for Disease Prevention and Control. A survey like this counts how many patients have an infection on a given day. Zacher and colleagues then used a method developed for other infectious diseases (Cassini et al. 2018), packaged as a statistical software tool, to convert those counts into infections per year, deaths and health burden for five infection types. The figure and table below present the estimates reported in their article in the journal Eurosurveillance (Zacher et al. 2019).\n\n\n\n\n\n\nNoteHow to read the numbers\n\n\n\nBurden is measured in DALYs (disability-adjusted life years). One DALY is one year of healthy life lost, through illness, disability or early death. We express it per 100,000 people, so countries of different sizes can be compared. Every estimate comes with a range (a 95% uncertainty interval) showing where the true value probably lies. The wider the range, the less certain the estimate.\n\n\n\n\nQuestion 1: Is Germany’s overall burden heavier?\nPartly. The clearest finding is about how often these infections happen: the overall rate in Germany was 1.27 times the EU/EEA average, and the range (1.14 to 1.43) is narrow enough to be confident that this is a real difference.\nThe health burden is less clear. Germany’s total was 308.2 DALYs per 100,000 people, against 290.0 for the EU/EEA average (the last row of Table 1). That is only about 6% higher, and the uncertainty range (0.68 to 1.67 times the EU/EEA figure) is too wide to say it is truly higher. So Germany seems to have more infections, but those extra infections do not clearly add up to a heavier overall burden.\n\n\nQuestion 2: Do some infection types stand out?\nYes. Figure 1 shows Germany and the EU/EEA average side by side, with the biggest gaps at the top.\n\n\n\n\n\n\n\n\nFigure 1: Health burden of hospital infections by type, Germany vs the EU/EEA average, 2011–12. The numbers on the right show Germany minus the EU/EEA average. Source: Zacher et al. (2019).\n\n\n\n\n\nTwo infection types stand out as higher in Germany. Urinary tract infections carried a burden of 82.6 against 57.1 for the EU/EEA average, and C. difficile infections were more than double (25.9 against 10.0). Pneumonia goes the other way (86.1 against 109.8), while surgical wound and bloodstream infections are about the same in both.\nHow sure can we be? Table 1 gives the exact figures with their ranges.\n\n\n\n\nTable 1: Estimated yearly burden of hospital infections (DALYs per 100,000 people), with 95% uncertainty ranges in brackets. Germany vs EU/EEA average, 2011–12. Source: Zacher et al. (2019).\n\n\n\n\n\n\n\n\n\n\n\n\nInfection type\nGermany\nEU/EEA average\nGermany compared with EU/EEA\n\n\n\n\nUrinary tract infection\n82.6 (34.5–159.2)\n57.1 (24.3–102.9)\nHigher\n\n\nC. difficile (a gut infection)\n25.9 (2.5–61.2)\n10.0 (0.9–19.2)\nHigher\n\n\nSurgical wound infection\n35.7 (28.9–43.7)\n35.1 (33.3–36.8)\nAbout the same\n\n\nBloodstream infection\n72.2 (38.3–129.0)\n76.2 (52.6–104.8)\nAbout the same\n\n\nPneumonia caught in hospital\n86.1 (42.1–145.1)\n109.8 (55.3–170.5)\nLower\n\n\nAll five combined\n308.2 (221.2–416.3)\n290.0 (214.9–376.9)\nSlightly higher, but not certain\n\n\n\n\n\n\n\n\nThe ranges overlap for every infection type, so treat these differences as strong signals rather than proof. The size of the gap is what makes urinary tract and C. difficile infections the ones to watch."
+  },
+  {
+    "objectID": "posts/hai-germany/index.html#conclusion-one-number-hides-the-story",
+    "href": "posts/hai-germany/index.html#conclusion-one-number-hides-the-story",
+    "title": "Catching an infection in hospital: how does Germany compare with the rest of Europe?",
+    "section": "Conclusion: one number hides the story",
+    "text": "Conclusion: one number hides the story\nBack to our two questions. First, Germany has more of these infections than the EU/EEA average (1.27 times as many), but the extra infections do not clearly produce a heavier overall burden. Second, the overall figure hides large differences between infection types: urinary tract infections (82.6 against 57.1) and C. difficile infections (25.9 against 10.0) weigh more in Germany, pneumonia weighs less (86.1 against 109.8), and the rest are similar.\nThe practical lesson is that hospital safety is not a single number. If the aim is to reduce harm, effort is best aimed at the specific infections where Germany’s burden is highest, urinary tract and C. difficile infections in particular, rather than at a uniform national response (Zacher et al. 2019).\nOne thing to keep in mind: these estimates come from a survey more than a decade old, and the researchers themselves note uncertainty about how representative the German hospitals in the sample were. As newer surveys are done, we will learn whether these infection types remain the priority."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Krrish Jambhulkar",
+    "section": "",
+    "text": "Catching an infection in hospital: how does Germany compare with the rest of Europe?\n\n\nOne headline number hides what really matters about infections picked up during medical treatment.\n\n\n\n\n\nOct 7, 2026\n\n\nKrrish Jambhulkar\n\n\n\n\n\nNo matching items"
+  }
+]
